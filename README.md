@@ -12,7 +12,10 @@ Commands Important:
 * git push <remote> <branch-name> ->
 * git pull <remote>
 * git diff
-<br/> For Delete:
+* git status
+* git log
+
+</br> For Delete:
 * git branch -d <branch-name> ->
 
 [Basic about Markdown](https://www.markdownguide.org/basic-syntax)
