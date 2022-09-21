@@ -2,17 +2,17 @@
 Introduction Git/Github
 
 Commands Important:
-* git init ->
-* git clone ->
+* git init -> Initialize repo
+* git clone -> Clone project/repo.
 * git remote rm origin ->
 * git branch <branch-name> ->
-* git add <file-name> ->
+* git add <file-name> -> Add file/dir
 * git checkout <branch-name> ->
 * git commit -a ->
 * git push <remote> <branch-name> ->
 * git pull <remote>
 * git diff
-* git status
+* git status -> Visualize info of repo.
 * git log
 
 </br> For Delete:
