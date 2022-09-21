@@ -1,4 +1,4 @@
 # Desafio de Projeto pela DIO
-Introdução básica do Git/Github
+Introduction Git/Github
 
-[Básico sobre Markdown](https://www.markdownguide.org/basic-syntax)
+[Basic about Markdown](https://www.markdownguide.org/basic-syntax)
